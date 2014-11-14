@@ -1,4 +1,5 @@
 # Meteor France
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/acemtp/meteor-france?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Source code that powers [Meteor France](http://france.meteor.com/).
 
